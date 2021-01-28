@@ -2,7 +2,7 @@
 layout: post
 title: "Accident Report"
 ---
-Somewhere north of Estonia and south of Lithuania lies the Baltic state of Kurzia. A heavily forested land dotted with centers of industry, its primary exports are lumber and automobiles to Russia and the rest of the Eastern Bloc. About one million people were living in Kurzia according to the 1989 census; Grwta Medniss was one such Kurzian (Her given name was to be Greta but a typo while filing her birth certificate led to the humorous moniker). Born in 1967, she had just graduated from the Nizhny State Institute of Kurzia at the age of 22 with a degree in Agricultural Engineering. Shortly after her graduation she was assigned to the State Ministry of Communication Equipment. During her first day on the job, a car hauler carrying half a dozen Ladas spun out and toppled a utility pole, leaving half the country without access to working phone lines and spilling factory new jalopies all over the highway.
+Somewhere north of Estonia and south of Lithuania lies the Baltic state of Kurzia. A heavily forested land dotted with centers of industry, its primary exports are lumber and automobiles to Russia and the rest of the Eastern Bloc. About one million people were living in Kurzia according to the 1989 census; Grwta Medniss was one such Kurzian (Her given name was to be Greta but the appointed typist suffered a stroke while filling out the form). Born in 1967, she had just graduated from the Nizhny State Institute of Kurzia at the age of 22 with a degree in Agricultural Engineering. Shortly after her graduation she was assigned to the State Ministry of Communication Equipment. During her first day on the job, a car hauler carrying half a dozen Ladas spun out and toppled a utility pole, leaving half the country without access to working phone lines and spilling factory new jalopies all over the highway.
 
 Stepping through the front doors of the Ministry’s central office, a monolithic cinder block of a building, Grwta was greeted by a friendly receptionist.
 
@@ -25,11 +25,9 @@ you’re good to go! Don’t forget to take this,” Iveta reached below her des
 
 Grwta gave Iveta a confident nod and set off down the hall briskly. She decided to take a look at the accident report, perhaps she could offer some particular insight into whatever this situation might be.
 
-Beginning of Report
-
-The lights on the bottom of the map turned red.
-
-End of Report
+<div align="center">Beginning of Report<br>
+The lights on the bottom of the map turned red.<br>
+End of Report</div>
 
 “Well that’s hardly useful,” she mumbled to herself. She looked up and found herself before a door labeled Ainars Z. Opening the door she found a needle-nosed man rifling through a filing cabinet.
 
@@ -106,11 +104,7 @@ Jaroslavas looked around laughing, “That would explain all these messages,” 
 
 “Kept you!?”
 
-“Well kept me until closing time of course, but I’ve ​always​worked in this pit,” Jarka calmed down a notch or two. “While I’m here I’ve been treated like complete waste, an
-6
-
-
-afterthought! This is the first time in my entire career I’ve been useful for something and you want me to fix that away?”
+“Well kept me until closing time of course, but I’ve ​always ​worked in this pit,” Jarka calmed down a notch or two. “While I’m here I’ve been treated like complete waste, an afterthought! This is the first time in my entire career I’ve been useful for something and you want me to fix that away?”
 
 “I’m sorry you feel that way, but it’s Deputy’s orders.”
 
