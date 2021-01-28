@@ -74,7 +74,7 @@ Grwta couldn’t be bothered with “thank you”s at this point. She made her w
 
 “It was?” she said, shocked. She looked around the office at all the people typing away uselessly at disconnected terminals and faxing documents that were going nowhere. "Yes.”
 
-“Well in that case you simply must find Jaroslavas Dzerins, he operates out telegraph system, he should be our only contact with the outside world now. He can get in contact with the Ministry of Communication Equipment Repair.
+“Well in that case you simply must find Jaroslavas Dzerins, he operates our telegraph system, he should be our only contact with the outside world now. He can get in contact with the Ministry of Communication Equipment Repair.
 
 “Where’s he?”
 
@@ -104,7 +104,7 @@ Jaroslavas looked around laughing, “That would explain all these messages,” 
 
 “Kept you!?”
 
-“Well kept me until closing time of course, but I’ve ​always ​worked in this pit,” Jarka calmed down a notch or two. “While I’m here I’ve been treated like complete waste, an afterthought! This is the first time in my entire career I’ve been useful for something and you want me to fix that away?”
+“Well kept me until closing time of course, but I’ve ​always worked in this pit,” Jarka calmed down a notch or two. “While I’m here I’ve been treated like complete waste, an afterthought! This is the first time in my entire career I’ve been useful for something and you want me to fix that away?”
 
 “I’m sorry you feel that way, but it’s Deputy’s orders.”
 
