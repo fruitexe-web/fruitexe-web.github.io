@@ -51,9 +51,7 @@ End of Report</div>
 
 “Well thank you very much.” Grwta left the room frustrated, and began to navigate the labyrinth of concrete walls and ancient carpeting. Once she found the staircase she began to climb the just-too-tall steps until she reached the third floor. Following the directory she finally arrived at Room 320. After opening the door she was greeted by a bullpen office of a few dozen women. The sound of clattering keys filled her ears and the smell of peeling wallpaper flooded her nostrils.
 
-“I’m looking for Deputy Konstantina.” She said, nearly drowned out by the sound of
-
-typing.
+“I’m looking for Deputy Konstantina.” She said, nearly drowned out by the sound of typing.
 
 The woman nearest her looked up, “What!?”
 
@@ -122,9 +120,7 @@ Grwta sighed and reached into her pockets for her wallet. Her parents raised her
 
 “Would 25 be against your character?”
 
-After a period of silence, “30.” Jaroslavas swiped the notes from Grwta’s outstretched
-
-hand.
+After a period of silence, “30.” Jaroslavas swiped the notes from Grwta’s outstretched hand.
 
 “Now leave me be! And go see that receptionist about getting your name tag fixed, it has an error.”
 
